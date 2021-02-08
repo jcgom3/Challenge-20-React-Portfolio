@@ -7,6 +7,10 @@
 * Gatsby
 * Netlify
 
+## Portfolio
+
+![](src/images/React-Portfolio-Demo.jpg)
+
 ## Deployment
 
 site created with Gatsby and Deployed with Netlify App
