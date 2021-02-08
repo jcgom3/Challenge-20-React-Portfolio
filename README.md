@@ -15,4 +15,4 @@
 
 site created with Gatsby and Deployed with Netlify App
 
-[Click here to see my site](https://mystifying-villani-3af1c1.netlify.app/)
+[Click here to see my site](http://juan-carlos-gomez.net/)
