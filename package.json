@@ -60,20 +60,6 @@
   },
   "bugs": {
     "url": "https://github.com/jcgom3/Challenge-20-React-Portfolio/issues"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
-  "lint-staged": {
-    "*.+(js|jsx)": [
-      "eslint --fix",
-      "git add"
-    ],
-    "*.+(json|css|md)": [
-      "prettier --write",
-      "git add"
-    ]
   }
+  
 }
