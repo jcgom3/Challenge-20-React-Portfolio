@@ -32,6 +32,15 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: "MovieLand.jpg",
+    title: "MovieLand",
+    info: "A quick search of your favorite movie!",
+    info2: " ",
+    url: "https://quiet-biscuit-d10189.netlify.app/",
+    repo: "https://github.com/jcgom3/ReactMovieLand", // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: "project-3-sneakerz-seekerz.png",
     title: "Sneakerz-Seekerz",
     info:
