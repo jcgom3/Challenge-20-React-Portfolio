@@ -41,6 +41,15 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: "TodoListDjango.jpg",
+    title: "TodoList Django",
+    info: "Create multiple todos to to plan out your week",
+    info2: " ",
+    url: "https://todolist9993.herokuapp.com/",
+    repo: "https://github.com/jcgom3/todolist9993", // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: "project-3-sneakerz-seekerz.png",
     title: "Sneakerz-Seekerz",
     info:
