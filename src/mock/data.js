@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: "profile.jpg",
   paragraphOne:
-    "I am a Full Stack Web Developer with 18 months of developing experience. Graduated from UCF Coding Boot Camp (02/21). I am skilled in both Front-end and Back-end. Additionally, I have a background in customer service and sales. Overall, I am open-minded with problem solving, communication, and leadership skills when working in teams. I am always looking for ways to improve and pride myself on taking on challenges that can only strengthen my craft. I look forward to helping to discover and provide the best possible results when given a task while providing integrity.",
+    "I am a Full Stack Web Developer with 18 months of developing experience. Graduated from UCF Coding Boot Camp (02/21). I am skilled in both Front-end and Back-end. Additionally, I have a background in Chemistry, customer service and sales. Overall, I am open-minded with problem solving, communication, and leadership skills when working in teams. I am always looking for ways to improve and pride myself on taking on challenges that can only strengthen my craft. I look forward to helping to discover and provide the best possible results when given a task while providing integrity.",
   paragraphTwo: "",
   paragraphThree: "",
   resume:
