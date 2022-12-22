@@ -32,6 +32,16 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: "shopping-cart-ts.jpg",
+    title: "Shopping Cart TS",
+    info:
+      "Shopping cart that allows users to add items to cart, update quantity & remove items while caching data using local storage",
+    info2: " ",
+    url: "https://extraordinary-cucurucho-f94ce5.netlify.app/store",
+    repo: "https://github.com/jcgom3/ShoppingCartTS", // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: "MovieLand.jpg",
     title: "MovieLand",
     info: "A quick search of your favorite movie!",
