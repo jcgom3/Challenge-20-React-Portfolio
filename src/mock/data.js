@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: "",
   name: "Juan Carlos Gomez",
-  subtitle: "I am a Full Stack Web Developer",
+  subtitle: "I am a Full Stack Software Engineer",
   cta: "",
 };
 
@@ -19,11 +19,11 @@ export const heroData = {
 export const aboutData = {
   img: "profile.jpg",
   paragraphOne:
-    "I am a Full Stack Web Developer with 18 months of developing experience. Graduated from UCF Coding Boot Camp (02/21). I am skilled in both Front-end and Back-end. Additionally, I have a background in Chemistry, customer service and sales. Overall, I am open-minded with problem solving, communication, and leadership skills when working in teams. I am always looking for ways to improve and pride myself on taking on challenges that can only strengthen my craft. I look forward to helping to discover and provide the best possible results when given a task while providing integrity.",
+    "I am a Full Stack Software Engineer with 2 years of developing experience. Graduated from UCF Coding Boot Camp (02/21). I am skilled in both Front-end and Full Stack applications. Additionally, I have a background in Chemistry & Ophthalmology/Optometry medical technician experience. I am open-minded with problem solving, communication, and leadership skills when working in teams. I am always looking for ways to improve and pride myself on taking on challenges that can only strengthen my craft. I look forward to helping to discover and provide the best possible results when given a task while providing integrity.",
   paragraphTwo: "",
   paragraphThree: "",
   resume:
-    "https://drive.google.com/file/d/1Xczm1fOcT5UsADN-EEifz95v_lanbzjA/view?usp=share_link", // if no resume, the button will not show up
+    "https://drive.google.com/file/d/1h3QH4jUJNfhsHoQCBa0lFrurcjG6CIwK/view?usp=share_link", // if no resume, the button will not show up
   certificate:
     "https://drive.google.com/file/d/1a1VlqEcCzbVG4vfcq2DqTUYPyL8KWjED/view?usp=sharing",
 };
@@ -173,7 +173,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: "linkedin",
-      url: "https://www.linkedin.com/in/juan-carlos-gomez-952256113/",
+      url: "https://www.linkedin.com/in/juan-carlos-gomez3",
     },
     {
       id: nanoid(),
