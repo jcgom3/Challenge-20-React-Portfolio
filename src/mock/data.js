@@ -19,9 +19,15 @@ export const heroData = {
 export const aboutData = {
   img: "profile.jpg",
   paragraphOne:
-    "I am a Full Stack Software Engineer with 2 years of developing experience. Graduated from UCF Coding Boot Camp (02/21). I am skilled in both Front-end and Full Stack applications. Additionally, I have a background in Chemistry & Ophthalmology/Optometry medical technician experience. I am open-minded with problem solving, communication, and leadership skills when working in teams. I am always looking for ways to improve and pride myself on taking on challenges that can only strengthen my craft. I look forward to helping to discover and provide the best possible results when given a task while providing integrity.",
-  paragraphTwo: "",
-  paragraphThree: "",
+    "I am a Full Stack Software Engineer with 2 years of developing experience in building scalable and maintainable applications. I am proficient in JavaScript, TypeScript, React.JS, Django, Node.JS, and MERN Stack and have experience in the full software development life cycle.",
+  paragraphTwo:
+    "In my current role as a Software Engineer at JHT Incorporated, I collaborated with an agile development team to build front-end SPAs for multiple emulated desktop environments, utilizing the React.JS framework along with TypeScript and MobX for state management. I designed and implemented React components according to scope documentation and utilized standard React.JS design principles and tooling to ensure code quality and maintainability.",
+  paragraphThree:
+    "I have also completed several projects, including a web app using 3rd party API and hooks to retrieve a list of favorite movies, a web app utilizing Django to create todos to plan out your week, and an e-commerce web app using redux for global state control and adding stripe for payments.",
+  paragraphFour:
+    "I hold a Certificate in Full Stack Web Development from the University of Central Florida and currently pursuing a BS in Chemistry with a minor in Math and Physics.",
+  paragraphFive:
+    "I am a highly motivated individual with excellent organizational and communication skills, and I am fluent in Spanish. I am passionate about using my skills to build innovative solutions and make a positive impact in the world of technology",
   resume:
     "https://drive.google.com/file/d/1X14OBcV5Xzpq_5_yb4H0Lpfh6FCw1LMa/view?usp=share_link", // if no resume, the button will not show up
   certificate:
