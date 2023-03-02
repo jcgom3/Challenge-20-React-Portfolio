@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo: "",
   paragraphThree: "",
   resume:
-    "https://drive.google.com/file/d/1X14OBcV5Xzpq_5_yb4H0Lpfh6FCw1LMa/view?usp=sharing", // if no resume, the button will not show up
+    "https://drive.google.com/file/d/1X14OBcV5Xzpq_5_yb4H0Lpfh6FCw1LMa/view?usp=share_link", // if no resume, the button will not show up
   certificate:
     "https://drive.google.com/file/d/1a1VlqEcCzbVG4vfcq2DqTUYPyL8KWjED/view?usp=sharing",
 };
