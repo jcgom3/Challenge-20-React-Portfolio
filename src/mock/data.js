@@ -29,7 +29,7 @@ export const aboutData = {
   paragraphFive:
     "I am a highly motivated individual with excellent organizational and communication skills, and I am fluent in Spanish. I am passionate about using my skills to build innovative solutions and make a positive impact in the world of technology",
   resume:
-    "https://drive.google.com/file/d/1X14OBcV5Xzpq_5_yb4H0Lpfh6FCw1LMa/view?usp=share_link", // if no resume, the button will not show up
+    "https://drive.google.com/file/d/1NcywYlwDVt7NKbM-o59Fe5TZiESM-N3s/view?usp=sharing", // if no resume, the button will not show up
   certificate:
     "https://drive.google.com/file/d/1a1VlqEcCzbVG4vfcq2DqTUYPyL8KWjED/view?usp=sharing",
 };
