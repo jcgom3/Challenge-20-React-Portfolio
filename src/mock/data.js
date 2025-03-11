@@ -16,23 +16,25 @@ export const heroData = {
 };
 
 // ABOUT DATA
+// Updated 03/11/25
 export const aboutData = {
   img: "profile.jpg",
   paragraphOne:
-    "I am a Full Stack Software Engineer with 2 years of developing experience in building scalable and maintainable applications. I am proficient in JavaScript, TypeScript, React.JS, Django, Node.JS, and MERN Stack and have experience in the full software development life cycle.",
+    "I am a Senior Software Engineer with over five years of experience in building scalable, high-performance web and mobile applications. My expertise spans JavaScript, TypeScript, React, React Native, Node.js, and modern cloud-based architectures, with a deep focus on designing efficient, modular, and API-driven solutions.",
   paragraphTwo:
-    "In my current role as a Software Engineer at JHT Incorporated, I collaborated with an agile development team to build front-end SPAs for multiple emulated desktop environments, utilizing the React.JS framework along with TypeScript and MobX for state management. I designed and implemented React components according to scope documentation and utilized standard React.JS design principles and tooling to ensure code quality and maintainability.",
+    "In my current role at TipBux, I lead the development of a cross-platform mobile application built with React Native, TypeScript, and Node.js, driving a 30% increase in transaction volume. I specialize in state management optimization, API performance tuning, and third-party service integrations, such as Stripe, Google Analytics, and Clerk.",
   paragraphThree:
-    "I have also completed several projects, including a web app using 3rd party API and hooks to retrieve a list of favorite movies, a web app utilizing Django to create todos to plan out your week, and an e-commerce web app using redux for global state control and adding stripe for payments.",
+    "I also work as a Senior Software Engineer at JHT Inc., where I develop React-based SPAs for multiple emulated desktop environments. My work focuses on creating reusable component libraries with TypeScript and MobX, improving development efficiency by 35%. I actively contribute to modernizing legacy applications, ensuring seamless integration with new simulation technologies, and enhancing system stability and maintainability.",
   paragraphFour:
-    "I hold a Certificate in Full Stack Web Development from the University of Central Florida and currently pursuing a BS in Chemistry with a minor in Math and Physics.",
+    "I hold a Bachelor of Science in Chemistry with a minor in Mathematics and Physics from the University of Central Florida. My background in analytical problem-solving, data security, and DevOps best practices complements my technical expertise, allowing me to build innovative, secure, and resilient software solutions.",
   paragraphFive:
-    "I am a highly motivated individual with excellent organizational and communication skills, and I am fluent in Spanish. I am passionate about using my skills to build innovative solutions and make a positive impact in the world of technology",
+    "In addition, I earned a Certificate in Full Stack Web Development from the University of Central Florida, which reinforced my foundation in front-end and back-end development. I am a highly motivated individual with strong organizational and communication skills, fluent in Spanish, and passionate about leveraging technology to create impactful, scalable, and user-centric digital experiences.",
   resume:
-    "https://drive.google.com/file/d/1NcywYlwDVt7NKbM-o59Fe5TZiESM-N3s/view?usp=sharing", // if no resume, the button will not show up
+    "https://drive.google.com/file/d/1fcTBOKvD1rcciJH6Xa88427dHNdfMnq4/view?usp=sharing",
   certificate:
     "https://drive.google.com/file/d/1a1VlqEcCzbVG4vfcq2DqTUYPyL8KWjED/view?usp=sharing",
 };
+
 
 // PROJECTS DATA
 export const projectsData = [
