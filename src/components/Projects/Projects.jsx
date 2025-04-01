@@ -26,7 +26,8 @@ const Projects = () => {
     <section id="projects">
       <Container>
         <div className="project-wrapper">
-          <Title title="Projects - Under Construction (03/2025)" />
+          <Title title="Projects - Under Construction (04/2025)" />
+          <p>Due to the nature of my current roles, most of my recent contributions are private and not publicly visible. While this may make my GitHub appear inactive, I’ve been consistently working on production-level systems. New personal projects and open-source contributions are in progress and will be published soon.</p>
           {projects.map((project) => {
             const { title, info, info2, url, repo, img, id } = project;
 
