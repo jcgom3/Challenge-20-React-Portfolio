@@ -16,7 +16,7 @@ export const heroData = {
 };
 
 // ABOUT DATA
-// Updated 03/11/25
+// Updated 04/01/25
 export const aboutData = {
   img: "profile.jpg",
   paragraphOne:
@@ -30,7 +30,7 @@ export const aboutData = {
   paragraphFive:
     "In addition, I earned a Certificate in Full Stack Web Development from the University of Central Florida, which reinforced my foundation in front-end and back-end development. I am a highly motivated individual with strong organizational and communication skills, fluent in Spanish, and passionate about leveraging technology to create impactful, scalable, and user-centric digital experiences.",
   resume:
-    "https://drive.google.com/file/d/1fcTBOKvD1rcciJH6Xa88427dHNdfMnq4/view?usp=sharing",
+    "https://drive.google.com/file/d/1HyqJKJpRRkyFinZ_A3GYgY_F1UFSA-K0/view?usp=sharing",
   certificate:
     "https://drive.google.com/file/d/1a1VlqEcCzbVG4vfcq2DqTUYPyL8KWjED/view?usp=sharing",
 };
